@@ -12,4 +12,4 @@ Dashboard focused on process and quality analysis, KPI tracking and operational 
 This project was built to monitor operational KPIs, process efficiency and quality metrics through interactive dashboards and automated reporting.
 
 ## Dashboard Preview
-(Screenshots below)
+[Dashboard_Preview.pdf](https://github.com/user-attachments/files/28061061/Dashboard_Preview.pdf)
